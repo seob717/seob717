@@ -21,5 +21,11 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
     height="120"
   />
 </a>
-  
-  
+
+<br />
+<br />
+
+**Contributing to**
+
+- **[TanStack/virtual](https://github.com/TanStack/virtual)**
+![stars](https://img.shields.io/github/stars/TanStack/virtual?style=flat&label=stars&color=ffd33d&labelColor=505050) — Masonry lane assignment stability on viewport resize
