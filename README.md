@@ -1,4 +1,4 @@
-# Hi, I'm ShimYuSeob 👋
+### Hi, I'm ShimYuSeob 👋
 
 Frontend Engineer | AI · Dev Productivity
 
@@ -6,7 +6,7 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 ---
 
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 - 🤖 Agentic workflows with Claude Code & the MCP ecosystem
 - 🛠️ Internal developer tooling for small teams
