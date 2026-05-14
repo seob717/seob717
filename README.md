@@ -6,7 +6,7 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 ---
 
-### 🌱 Currently Exploring
+**🌱 Currently Exploring**
 
 - 🤖 Agentic workflows with Claude Code & the MCP ecosystem
 - 🛠️ Internal developer tooling for small teams
@@ -14,4 +14,4 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 <br />
 
-<img src="https://render.gitanimals.org/farms/seob717" width="600" />
+<img src="https://render.gitanimals.org/farms/seob717" width="100%" />
