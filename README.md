@@ -29,3 +29,7 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 - **[TanStack/virtual](https://github.com/TanStack/virtual)**
 ![stars](https://img.shields.io/github/stars/TanStack/virtual?style=flat&label=stars&color=ffd33d&labelColor=505050) — Masonry lane assignment stability on viewport resize
+
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)**
+![stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat&label=stars&color=ffd33d&labelColor=505050) — Listed redash-mcp in the
+Databases section
