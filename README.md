@@ -14,44 +14,12 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 <br />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/lines/seob717?pet-id=875779984835321184"
+    src="https://render.gitanimals.org/farms/seob717"
     width="600"
-    height="120"
-    alt="Hamster Santa"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seob717?pet-id=875780056008468625"
-    width="600"
-    height="120"
-    alt="Little Chick Tube"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seob717?pet-id=875779526876051082"
-    width="600"
-    height="120"
-    alt="Rabbit Tube"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seob717?pet-id=875779983698667285"
-    width="600"
-    height="120"
-    alt="Scream"
-  />
-</a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seob717?pet-id=875779800877335622"
-    width="600"
-    height="120"
-    alt="Goose Java"
+    height="300"
+    alt="GitAnimals farm"
   />
 </a>
 
