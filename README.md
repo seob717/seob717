@@ -14,13 +14,12 @@ I build tools that make my own work faster — Claude Code plugins, MCP servers,
 
 <br />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seob717&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/seob717"
-    width="600"
-    height="300"
-    alt="GitAnimals farm"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=seob717&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seob717"
+  width="600"
+  height="300"
+/>
 </a>
 
 <br />
